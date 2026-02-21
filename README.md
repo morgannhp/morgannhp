@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Morgan Wanjohi
 
-<!--
-**morgannhp/morgannhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
 
-Here are some ideas to get you started:
+Electrical Engineer | Solar Energy Specialist | Networking and CCTV Engineer | Web Developer | AI and Automation Learner  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Git and Github
+HTML, CSS, JavaScript, React and Tailwind CSS
+Python (automation and AI fundamentals)
+Structured cabling systems, CCTV system installation, configuration, Router and switch setup, IP addressing and subnetting
+Solar PV system design, installation, Inverter and battery storage configuration
+Electrical installation,  Power distribution systems, Fault diagnosis and maintenance
+
+## Current Projects
+
+Mortechs Enterprise
+
+## How to Reach Me
+
+Email: wanjohimorgan@gmail.com
+Location: Kenya
+LinkedIn Morgan Wanjohi
